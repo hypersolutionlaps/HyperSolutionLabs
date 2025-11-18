@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="3d-logo.gif" alt="Hyper Solution Labs" width="180"/>
+  <!-- Replace 'logo.png' with your logo file name -->
+  <img src="logo.png" alt="Hyper Solution Labs Logo" width="180"/>
 </p>
 
 <h1 align="center" style="color:#1E90FF;">Hyper Solution Labs</h1>
@@ -27,6 +28,7 @@
 - **Demo:** [Live Demo](#)  
 - **Description:** Interactive 3D dashboard showing animated charts and effects.  
 - <p align="center">
+  <!-- Replace '3d-dashboard.gif' with your project GIF -->
   <img src="3d-dashboard.gif" alt="3D Dashboard Demo" width="500"/>
 </p>
 
@@ -35,6 +37,7 @@
 - **Demo:** [Live Demo](#)  
 - **Description:** Modern landing page with parallax scrolling and 3D hover effects.  
 - <p align="center">
+  <!-- Replace 'landing-page.gif' with your project GIF -->
   <img src="landing-page.gif" alt="Landing Page Demo" width="500"/>
 </p>
 
@@ -51,5 +54,5 @@
 ---
 
 <p align="center">
-  Hyper Solution Labs
+  Made with ❤️ and 3D vibes by Hyper Solution Labs
 </p>
