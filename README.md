@@ -1,4 +1,5 @@
 <p align="center">
+  <!-- Replace 'logo.png' with your uploaded logo file -->
   <img src="logo.png" alt="Hyper Solution Labs Logo" width="180"/>
 </p>
 
@@ -16,6 +17,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -25,8 +27,8 @@
 ### Project 1: **3D Dashboard App**
 - **Tech Stack:** React, Node.js, Three.js  
 - **Demo:** [Live Demo](#)  
-- **Description:** Interactive 3D dashboard showing animated charts and effects.  
-- <p align="center">
+- **Description:** Interactive 3D dashboard with animated charts and UI effects.  
+<p align="center">
   <!-- Replace '3d-dashboard.gif' with your project GIF -->
   <img src="3d-dashboard.gif" alt="3D Dashboard Demo" width="500"/>
 </p>
@@ -34,10 +36,19 @@
 ### Project 2: **Modern Landing Page**
 - **Tech Stack:** HTML, CSS, JavaScript  
 - **Demo:** [Live Demo](#)  
-- **Description:** Modern landing page with parallax scrolling and 3D hover effects.  
-- <p align="center">
+- **Description:** Modern landing page with parallax scrolling and 3D hover animations.  
+<p align="center">
   <!-- Replace 'landing-page.gif' with your project GIF -->
   <img src="landing-page.gif" alt="Landing Page Demo" width="500"/>
+</p>
+
+### Project 3: **Automation Script**
+- **Tech Stack:** Node.js, APIs  
+- **Demo:** [Live Demo](#)  
+- **Description:** Automation tools for task management and data processing.  
+<p align="center">
+  <!-- Replace 'automation.gif' with your project GIF -->
+  <img src="automation.gif" alt="Automation Demo" width="500"/>
 </p>
 
 ---
@@ -45,13 +56,13 @@
 ## 📫 Contact
 
 <p align="center">
-  📧 Email: lynuxscorpion@gmail.com  
-  🔗 LinkedIn: [Your LinkedIn](#)  
-  🌐 Portfolio:(https://hypersolutionlaps.github.io/portfolio/)
+  📧 Email: lynuxscorpion@gmail.com<br>
+  🔗 LinkedIn: [Your LinkedIn](#)<br>
+  🌐 Portfolio: (https://hypersolutionlaps.github.io/portfolio/)
 </p>
 
 ---
 
 <p align="center">
-by Hyper Solution Labs
+  by Hyper Solution Labs
 </p>
