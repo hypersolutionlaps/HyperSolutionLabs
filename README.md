@@ -48,7 +48,7 @@
 <p align="center">
   📧 Email: lynuxscorpion@gmail.com  
   🔗 LinkedIn: [Your LinkedIn](#)  
-  🌐 Portfolio: [Live Portfolio](https://hypersolutionlaps.github.io/portfolio/)
+  🌐 Portfolio:(https://hypersolutionlaps.github.io/portfolio/)
 </p>
 
 ---
