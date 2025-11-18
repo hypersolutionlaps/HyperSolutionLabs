@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  Made with ❤️ and 3D vibes by Hyper Solution Labs
+by Hyper Solution Labs
 </p>
