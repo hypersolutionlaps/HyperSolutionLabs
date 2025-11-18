@@ -46,7 +46,7 @@
 ## 📫 Contact
 
 <p align="center">
-  📧 Email: AZURENwatches@gmail.com  
+  📧 Email: lynuxscorpion@gmail.com  
   🔗 LinkedIn: [Your LinkedIn](#)  
   🌐 Portfolio: [Live Portfolio](https://hypersolutionlaps.github.io/portfolio/)
 </p>
