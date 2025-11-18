@@ -1,54 +1,55 @@
 <p align="center">
-  <img src="logo.png" alt="Hyper Solution Labs" width="150"/>
+  <img src="3d-logo.gif" alt="Hyper Solution Labs" width="180"/>
 </p>
 
-<h1 align="center">Hyper Solution Labs</h1>
-<p align="center">Full-Stack Developer | Automation Solutions | Open for Freelance Projects</p>
+<h1 align="center" style="color:#1E90FF;">Hyper Solution Labs</h1>
+<p align="center">Innovative Web & Automation Solutions | Freelance Projects</p>
 
 ---
 
-## 💻 Skills
+## 🛠 Skills
 
-| Frontend        | Backend       | Databases   | Tools & Others |
-|-----------------|---------------|------------|----------------|
-| HTML, CSS, JS   | Node.js, Express | MongoDB, Firebase | Git, GitHub, VSCode |
-| React, Tailwind | REST APIs      | SQL       | Postman, Figma |
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### Project 1: **Example App**
-- **Tech Stack:** React, Node.js, MongoDB  
+### Project 1: **3D Dashboard App**
+- **Tech Stack:** React, Node.js, Three.js  
 - **Demo:** [Live Demo](#)  
-- **Description:** A brief description of what the app does.  
-- ![Screenshot](screenshot1.png)
+- **Description:** Interactive 3D dashboard showing animated charts and effects.  
+- <p align="center">
+  <img src="3d-dashboard.gif" alt="3D Dashboard Demo" width="500"/>
+</p>
 
-### Project 2: **Example App 2**
-- **Tech Stack:** HTML, CSS, JS  
+### Project 2: **Modern Landing Page**
+- **Tech Stack:** HTML, CSS, JavaScript  
 - **Demo:** [Live Demo](#)  
-- **Description:** A brief description of what this project does.  
-- ![Screenshot](screenshot2.png)
-
-*Add more projects in the same format…*
-
----
-
-## 📂 Portfolio Repository
-
-- This repository showcases my best work.
-- Live portfolio site: [Hyper Solution Labs Portfolio](https://hypersolutionlaps.github.io/portfolio/)
+- **Description:** Modern landing page with parallax scrolling and 3D hover effects.  
+- <p align="center">
+  <img src="landing-page.gif" alt="Landing Page Demo" width="500"/>
+</p>
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: lynuxscorpion@gmail.com  
-- 🔗 LinkedIn: [Your LinkedIn Profile](#)  
-- 🌐 Website: [Optional Portfolio Website](#)
+<p align="center">
+  📧 Email: AZURENwatches@gmail.com  
+  🔗 LinkedIn: [Your LinkedIn](#)  
+  🌐 Portfolio: [Live Portfolio](https://hypersolutionlaps.github.io/portfolio/)
+</p>
 
 ---
 
 <p align="center">
-  Made with ❤️ by Hyper Solution Labs
+  Made with ❤️ and 3D vibes by Hyper Solution Labs
 </p>
